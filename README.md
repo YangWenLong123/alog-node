@@ -1,14 +1,10 @@
 <p align="center">
-  <img width="500" src="">
+  <img width="300" src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667">
 </p>
 
-
-#### node-admin-design是一个基于nodejs+ mysql为技术栈...
-
+## 介绍
+    个人博客服务端项目
 >
-> ##### github项目地址： []()
->
-
 
 
 ## 目录结构
@@ -38,12 +34,9 @@
 ## 开发
 
 ```
-// 克隆项目
-git clone
+克隆项目    git clone https://github.com/YangWenLong123/alog-node.git
 
-// 安装依赖
-npm install
+安装依赖    cnpm install
 
-// 开发
-npm run dev
+运行项目    nodemon app.js
 ```
